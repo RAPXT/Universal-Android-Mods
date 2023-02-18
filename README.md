@@ -51,6 +51,9 @@ More Customization
 Notification Panel Mod
 - Matrix Rain [Xposed] // https://modules.lsposed.org/module/com.chacha.matrixrain
 
+Recovery Tool
+- Magisk Manager Recovery Tool [Recovery] // https://github.com/Pzqqt/Magisk_Manager_Recovery_Tool
+
 Voice Assistant
 - Dicio [App] // https://www.f-droid.org/packages/org.stypox.dicio
 
